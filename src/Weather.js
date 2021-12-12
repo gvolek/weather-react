@@ -19,7 +19,7 @@ export default function Weather(props) {
       <h2> Hello from Weather.js</h2>
       <Loader
         type="ThreeDots"
-        color="white"
+        color="grey"
         height={100}
         width={100}
         timeout={3000} //3 secs
